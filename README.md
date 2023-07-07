@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+<img align="center" alt="Coding" width="900" height ="360" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 
 <h1 align="center">Hi 👋, I'm Preeti</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
