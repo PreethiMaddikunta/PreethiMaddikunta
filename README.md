@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dashboard Project**
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning **AWS Cloud Services**
 
 - 💬 Ask me about **Web, MERN**
 
