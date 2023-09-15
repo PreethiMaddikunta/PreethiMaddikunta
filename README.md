@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I am funny**
 
+- 	[My Portfolio Website](https://preethimaddikunta.github.io/portfolio/)
+
 
 <p align="left">
 </p>
