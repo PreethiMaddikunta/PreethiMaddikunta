@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
-- 💬 Ask me about **Web, MERN**
+- 💬 Ask me about **Web, MERN Stack**
 
 - 📫 How to reach me **preethisri26@gmail.com**
 
