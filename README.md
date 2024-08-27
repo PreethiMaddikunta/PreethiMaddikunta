@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AeroSpace Project(Flight Tracking Application)**
 
-- 🌱 I’m currently learning ** Amazon Web Services **
+- 🌱 I’m currently learning ** Amazon Web Services, Azure Services **
 
 - 💬 Ask me about **Web Development,  MERN Stack, Cloud Services**
 
