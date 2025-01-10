@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AeroSpace Project(Flight Tracking Application's)**
 
-- 🌱 I’m currently learning ** Amazon Web Services(AWS), Google Cloud Services (GCP ) **
+- 🌱 I’m currently learning ** Amazon Web Services(AWS), Google Cloud Services (GCP) **
 
 - 💬 Ask me about **Web Development,  MERN Stack, Cloud Services**
 
